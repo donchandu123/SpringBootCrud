@@ -8,5 +8,10 @@ public class Test {
 		stu.setRollno(101);
 		stu.setAreaname("WARJE");
 		stu.setCityname("PUNE");
+		Student stu1=new Student();
+		stu1.setName("Sneha");
+stu1.setRollno(101);
+stu1.setAreaname("karve");
+stu1.setCityname("PUNE");
 	}
 }
